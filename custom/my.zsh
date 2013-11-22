@@ -10,5 +10,7 @@ alias gc='git commit -am'
 alias gb='git branch'
 alias gp='git push'
 alias gpl='git pull'
-
+alias fn='find . -name'
+alias pg='ps aux|grep'
+alias rf='rm -rf'
 
