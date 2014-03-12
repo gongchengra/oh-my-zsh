@@ -14,4 +14,5 @@ alias gv='git remote -v'
 alias fn='find . -name'
 alias pg='ps aux|grep'
 alias rf='rm -rf'
+alias ll='ls -laSrh'
 
