@@ -19,3 +19,7 @@ alias je='cd /data/content/errors'
 alias ji='cd /data/content/ID-BUILDS/'
 alias jt='cd /tmp/tomcat7-tomcat7-tmp/'
 alias jc='cd /var/www/pharoscontent/cocoon/'
+
+HISTSIZE=1000000
+SAVEHIST=1000000
+setopt HIST_SAVE_NO_DUPS
