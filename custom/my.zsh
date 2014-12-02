@@ -4,7 +4,7 @@
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
 alias la='ls -A'
-alias go='sudo git checkout'
+# alias go='sudo git checkout'
 alias gs='git status'
 alias gc='git commit -am'
 alias gb='git branch'
